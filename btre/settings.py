@@ -27,7 +27,7 @@ SECRET_KEY = '^+nz-4)f8fcl%jsn7v+1k@l*o!gt#b#zn1z@gdpd8(jmkqrdx4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['btre-app', 'localhost']
+ALLOWED_HOSTS = ['warm-ridge-98235', 'localhost']
 
 # Application definition
 
